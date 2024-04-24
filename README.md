@@ -1,1 +1,2 @@
-Projeto teste para aprender a mexer no Github.
+# Jodo do Número Secreto
+Feito ao longo do curso 'Git e GitHub: compartilhando e colaborando em projetos' da Alura.
